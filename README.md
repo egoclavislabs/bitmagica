@@ -13,3 +13,15 @@ python3 bitmagica
 
 
 ```
+
+
+
+
+
+
+
+**Richy-boy** @ EgoClavisLabs 🔮
+
+Fun little binary loop – made for the vibes.
+
+2026
