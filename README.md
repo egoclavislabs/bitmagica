@@ -14,14 +14,12 @@ python3 bitmagica
 
 ```
 
+# Download link
+bitmagica v1.0 :  https://github.com/EgoClavisLabs/bitmagica/releases/download/v1.0/bitmagica.py
 
 
 
-
-
-
-**Richy-boy** @ EgoClavisLabs 🔮
+**Richy-boy** @ EgoClavisLabs 
 
 Fun little binary loop – made for the vibes.
-
 2026
