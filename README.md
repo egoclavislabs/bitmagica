@@ -6,9 +6,10 @@ bash
 
 ``` bash
 
-git clone 
+git clone  https://github.com/EgoClavisLabs/bitmagica.git
 cd bitmagica
 python3 bitmagica
+
 
 
 ```
