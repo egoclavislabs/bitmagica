@@ -1,2 +1,2 @@
 # bitmagica
-Tiny binary loop tool fo rmotivation
+Tiny binary loop tool for motivation
